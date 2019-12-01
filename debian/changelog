@@ -1,3 +1,21 @@
+gooroom-translations (20191130+grm2u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [f0be5fda] Updated gooroom-2.0 environments
+  * [b60d85e2] Added gnome-flashback po and gnome-mpv
+  * [ca46ddc5] Added gnome-panel-ko.po
+  * [18403f93] Updated live-installer-ko.po (#2019.10.10)
+  * [0d80ace6] Modified live-installer-ko.po
+  * [f4be546b] Modified copyright
+
+  [ user ]
+  * [33a398b8] Update gnome-flashback-ko.po
+  * [9eeaa0ab] Added new korean translation for libpwquality
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 01 Dec 2019 19:39:02 +0900
+
 gooroom-translations (20190401+grm1u1) gooroom-1.0; urgency=medium
 
   [ jongkyung.woo ]
