@@ -1,3 +1,12 @@
+gooroom-translations (20191130+grm2u2) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [82f6a61f] Added NetworkManager and nm-applet-ko.po
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 02 Dec 2019 18:56:27 +0900
+
 gooroom-translations (20191130+grm2u1) unstable; urgency=medium
 
   * Initial Release 
