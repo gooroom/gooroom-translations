@@ -1109,6 +1109,10 @@ msgstr "파일 이름"
 msgid "Rename"
 msgstr "이름 변경"
 
+#: gnome-flashback/libdesktop/gf-home-icon.c:45
+msgid "Home"
+msgstr "홈"
+
 #: gnome-flashback/libscreensaver/gf-auth.c:421
 msgid "Your account was given a time limit that has now passed."
 msgstr "암호가 만료되었습니다"
