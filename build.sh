@@ -51,6 +51,7 @@ nautilus
 nemo
 nemo-extensions
 libnma
+malcontent
 )
 
 # Gooroom
