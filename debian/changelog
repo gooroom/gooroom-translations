@@ -1,3 +1,18 @@
+gooroom-translations (20220227+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [a46b94ec] Rebuild on gooroom-3.0
+
+  [ heejun.jang ]
+  * [14e8b630] Updated translations for gnome-flashback
+  * [28f1369a] Updated translations for malcontent-control
+  * [516b55ad] [Bug:4058]Updated gtk30 translations
+
+  [ subin.kim ]
+  * [5504cc58] Updated gnome-screenshot po file
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 27 Feb 2022 14:54:11 +0900
+
 gooroom-translations (20211204+grm3u1) unstable; urgency=medium
 
   [ seolhee.sun ]
