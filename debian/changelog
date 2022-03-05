@@ -1,3 +1,10 @@
+gooroom-translations (20220305+grm3u1) unstable; urgency=medium
+
+  [ heejun.jang ]
+  * [65791b7d] [Bug:5058]Updated video/audio column contents translation
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 05 Mar 2022 13:30:53 +0900
+
 gooroom-translations (20220227+grm3u2) unstable; urgency=medium
 
   [ seolhee.sun ]
