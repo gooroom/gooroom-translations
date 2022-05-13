@@ -3312,7 +3312,7 @@ msgstr[0] "탭 %d개를 각각 엽니다."
 
 #: src/nautilus-mime-actions.c:1014
 #, c-format
-msgid "Could not display “%s”."
+msgid "Could Not Display “%s”"
 msgstr "“%s”을(를) 표시할 수 없습니다."
 
 #: src/nautilus-mime-actions.c:1117
