@@ -834,6 +834,10 @@ msgid ""
 "config: reneg-sec"
 msgstr "특정 주기 후 데이터 채널 키 재요청"
 
+#: ../properties/nm-openvpn-dialog.ui.h:43
+msgid "Data _compression:"
+msgstr "데이터 압축(_C)"
+
 #: ../properties/nm-openvpn-dialog.ui.h:44
 msgid "Use L_ZO data compression"
 msgstr "LZO 압축 사용(_Z)"
@@ -1290,6 +1294,38 @@ msgstr ""
 #: ../properties/nm-openvpn-dialog.ui.h:172
 msgid "Misc"
 msgstr ""
+
+#: ../properties/nm-openvpn-dialog.ui.h:173
+msgid "TLS version control"
+msgstr "TLS 버전 통제"
+
+#: ../properties/nm-openvpn-dialog.ui.h:174
+msgid "TLS _min version: "
+msgstr "TLS 최소 버전(m):"
+
+#: ../properties/nm-openvpn-dialog.ui.h:175
+msgid ""
+" Sets the minimum TLS version we will accept from the peer (default is \"1.0\").  "
+"Examples for version include \"1.0\", \"1.1\", or \"1.2\".  If 'or-highest' is "
+"specified and version is not recognized, we will only accept the highest TLS "
+"version supported by the local SSL implementation."
+msgstr ""
+"peer (서버)에서 허용할 TLS 최소 버전을 설정합니다(\"1.0\"이 기본으로 설정)."
+"최소 버전의 예시로 \"1.0\", \"1.1\", \"1.2\"가 있습니다."
+"만약 '최대로 설정'으로 명시하고, 특정 버전이 인식되지 않는 경우 로컬 SSL "
+"에서 지원되는 가장 높은 TLS 버전이 설정됩니다."
+
+#: ../properties/nm-openvpn-dialog.ui.h:176
+msgid "TLS ma_x version: "
+msgstr "TLS 최대 버전(x):"
+
+#: ../properties/nm-openvpn-dialog.ui.h:177
+msgid ""
+"Set the maximum TLS version we will use (default is the highest version "
+"supported).  Examples for version include \"1.0\", \"1.1\", or \"1.2\"."
+msgstr ""
+"사용할 TLS 최대 버전을 설정합니다(기본으로 지원되는 가장 높은 버전이 설정 "
+"됩니다). 최대 버전의 예시로 \"1.0\", \"1.1\", \"1.2\"가 있습니다."
 
 #~ msgid "VPN Connection Manager (OpenVPN)"
 #~ msgstr "VPN 연결 관리자 (OpenVPN)"
