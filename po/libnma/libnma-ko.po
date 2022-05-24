@@ -677,7 +677,7 @@ msgstr "서버 인증서 이름의 접미사입니다."
 #: src/nma-ws/nma-eap-peap.ui:163 src/nma-ws/nma-eap-tls.ui:57
 #: src/nma-ws/nma-eap-ttls.ui:128
 msgid "_Domain"
-msgstr ""
+msgstr "도메인(D)"
 
 #: src/nma-ws/nma-eap-simple.c:79
 msgid "missing EAP username"
