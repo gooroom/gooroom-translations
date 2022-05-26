@@ -1,3 +1,13 @@
+gooroom-translations (20220526+grm3u1) unstable; urgency=medium
+
+  [ heejun.jang ]
+  * [41298b08] [4599]Update new folder error message in desktop
+  * [f55d335e] [Bug:4259]Update Could not Display file message
+  * [5c55bc88] [Bug:4240]Added NetworkManager-openvpn translation
+  * [2212142d] [Bug:5258]Update libnma translations
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 26 May 2022 18:29:21 +0900
+
 gooroom-translations (20220305+grm3u1) unstable; urgency=medium
 
   [ heejun.jang ]
