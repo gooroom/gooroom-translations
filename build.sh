@@ -28,6 +28,7 @@ live-installer
 
 # Debian PO
 debian_po=(
+apt
 gnome-flashback
 celluloid
 gnome-panel
