@@ -2498,6 +2498,14 @@ msgstr "패턴(_P):"
 msgid "Examples: "
 msgstr "예제: "
 
+#: src/nautilus-files-view.c:2747
+msgid "Could not paste files"
+msgstr "파일을 붙여넣을 수 없습니다"
+
+#: src/nautilus-files-view.c:2748
+msgid "Permissions do not allow pasting files in this directory"
+msgstr "이 디렉터리에 파일을 붙여 넣을 권한이 없습니다"
+
 #: src/nautilus-files-view.c:2861
 msgid ""
 "Nautilus 3.6 deprecated this directory and tried migrating this "
