@@ -7,86 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: synaptic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-31 17:17+0900\n"
-"PO-Revision-Date: 2017-09-25 14:59+0900\n"
-"Last-Translator: sungho.kang <shkang@gooroom.kr>\n"
-"Language-Team: Gooroom <devel-os@gooroom.kr>\n"
+"POT-Creation-Date: 2022-07-18 13:56+0900\n"
+"PO-Revision-Date: 2011-11-15 06:02+0000\n"
+"Last-Translator: Bundo <bundo@bundo.biz>\n"
+"Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Launchpad-Export-Date: 2013-04-19 04:32+0000\n"
-"X-Generator: Poedit 1.8.11\n"
-
-msgid "package_name"
-msgstr "패키지"
-
-msgid "package_version"
-msgstr "버전"
-
-msgid "architecture"
-msgstr "아키텍처"
-
-msgid "source"
-msgstr "소스 패키지"
-
-msgid "source_version"
-msgstr "소스 버전"
-
-msgid "cve_score"
-msgstr "CVE 분석 점수"
-
-msgid "total_cvss"
-msgstr "CVSS 합계"
-
-msgid "num_of_depnd_pkg"
-msgstr "의존성 패키지 개수"
-
-msgid "sum_of_depnd_pkg_cve_score"
-msgstr "의존성 패키지 CVE 점수"
-
-msgid "num_of_exec_files"
-msgstr "포함된 실행파일 개수"
-
-msgid "exec_files_size"
-msgstr "포함된 실행파일 크기"
-
-msgid "num_of_elf_files"
-msgstr "포함된 ELF 파일 개수"
-
-msgid "elf_files_size"
-msgstr "포함된 ELF 파일 크기"
-
-msgid "num_of_uid_guid_files"
-msgstr "포함된 SETUID, SETGID 파일 개수"
-
-msgid "uid_guid_files_size"
-msgstr "포함된 SETUID, SETGID 파일 크기"
-
-msgid "source_lines_of_code"
-msgstr "패키지 소스코드 라인수"
-
-msgid "cyclomatic_complexity"
-msgstr "패키지 소스코드 순환복잡도"
-
-msgid "num_of_committers"
-msgstr "개발자(Committer) 수"
-
-msgid "last_commit_log"
-msgstr "마지막 커밋(Commit) 로그"
-
-msgid "one_month"
-msgstr "최근 1개월간 커밋 개수"
-
-msgid "three_month"
-msgstr "최근 3개월간 커밋 개수"
-
-msgid "six_month"
-msgstr "최근 6개월간 커밋 개수"
-
-msgid "one_year"
-msgstr "최근 1년간 커밋 개수"
+"X-Generator: Launchpad (build 16567)\n"
 
 #. TRANSLATORS: Alias for the Debian package section "admin"
 #: ../common/sections_trans.cc:12
@@ -173,279 +104,243 @@ msgstr "GNU R 연구 통계 시스탬"
 msgid "Gnustep Desktop Environment"
 msgstr ""
 
-#. TRANSLATORS: Alias for the Debian package section "hamradio"
+#. TRANSLATORS: Alias for the Debian package section "golang"
 #: ../common/sections_trans.cc:46
+msgid "Go Programming Language"
+msgstr "파이썬 프로그램 언어"
+
+#. TRANSLATORS: Alias for the Debian package section "hamradio"
+#: ../common/sections_trans.cc:48
 msgid "Amateur Radio"
 msgstr "아마추어 라디오"
 
 #. TRANSLATORS: Alias for the Debian package section "haskell"
-#: ../common/sections_trans.cc:48
+#: ../common/sections_trans.cc:50
 msgid "Haskell Programming Language"
 msgstr "Haskell 프로그래밍 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "httpd"
-#: ../common/sections_trans.cc:50
+#: ../common/sections_trans.cc:52
 msgid "Web servers"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "interpreters"
-#: ../common/sections_trans.cc:52
+#: ../common/sections_trans.cc:54
 msgid "Interpreted Computer Languages"
 msgstr "인터프리터 컴퓨터 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "java"
-#: ../common/sections_trans.cc:54
+#: ../common/sections_trans.cc:56
 msgid "Java Programming Language"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "javascript"
-#: ../common/sections_trans.cc:56
+#: ../common/sections_trans.cc:58
 msgid "JavaScript Programming Language"
-msgstr ""
+msgstr "펄 프로그램 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "KDE"
-#: ../common/sections_trans.cc:58
+#: ../common/sections_trans.cc:60
 msgid "KDE Desktop Environment"
 msgstr "KDE 데스크탑 환경"
 
 #. TRANSLATORS: Alias for the Debian package section "kernel"
-#: ../common/sections_trans.cc:60
+#: ../common/sections_trans.cc:62
 msgid "Kernel and modules"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "libdevel"
-#: ../common/sections_trans.cc:62
+#: ../common/sections_trans.cc:64
 msgid "Libraries - Development"
 msgstr "라이브러리 - 개발용"
 
 #. TRANSLATORS: Alias for the Debian package section "libs"
-#: ../common/sections_trans.cc:64
+#: ../common/sections_trans.cc:66
 msgid "Libraries"
 msgstr "라이브러리"
 
 #. TRANSLATORS: Alias for the Debian package section "lisp"
-#: ../common/sections_trans.cc:66
+#: ../common/sections_trans.cc:68
 msgid "Lisp Programming Language"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "localization"
-#: ../common/sections_trans.cc:68
+#: ../common/sections_trans.cc:70
 msgid "Localization"
-msgstr "지역화"
+msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "mail"
-#: ../common/sections_trans.cc:70
+#: ../common/sections_trans.cc:72
 msgid "Email"
 msgstr "전자메일"
 
 #. TRANSLATORS: Alias for the Debian package section "math"
-#: ../common/sections_trans.cc:72
+#: ../common/sections_trans.cc:74
 msgid "Mathematics"
 msgstr "수학 계산"
 
 #. TRANSLATORS: Alias for the Debian package section "misc"
-#: ../common/sections_trans.cc:74
+#: ../common/sections_trans.cc:76
 msgid "Miscellaneous - Text Based"
 msgstr "기타 - 텍스트 기반"
 
 #. TRANSLATORS: Alias for the Debian package section "net"
-#: ../common/sections_trans.cc:76
+#: ../common/sections_trans.cc:78
 msgid "Networking"
 msgstr "네트워크"
 
 #. TRANSLATORS: Alias for the Debian package section "news"
-#: ../common/sections_trans.cc:78
+#: ../common/sections_trans.cc:80
 msgid "Newsgroup"
 msgstr "뉴스그룹"
 
 #. TRANSLATORS: Alias for the Debian package section "ocaml"
-#: ../common/sections_trans.cc:80
+#: ../common/sections_trans.cc:82
 msgid "OCaml Programming Language"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "oldlibs"
-#: ../common/sections_trans.cc:82
+#: ../common/sections_trans.cc:84
 msgid "Libraries - Old"
 msgstr "라이브러리 - 구식"
 
 #. TRANSLATORS: Alias for the Debian package section "otherosfs"
-#: ../common/sections_trans.cc:84
+#: ../common/sections_trans.cc:86
 msgid "Cross Platform"
 msgstr "크로스 플랫폼"
 
 #. TRANSLATORS: Alias for the Debian package section "perl"
-#: ../common/sections_trans.cc:86
+#: ../common/sections_trans.cc:88
 msgid "Perl Programming Language"
 msgstr "펄 프로그램 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "php"
-#: ../common/sections_trans.cc:88
+#: ../common/sections_trans.cc:90
 msgid "PHP Programming Language"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "python"
-#: ../common/sections_trans.cc:90
+#: ../common/sections_trans.cc:92
 msgid "Python Programming Language"
 msgstr "파이썬 프로그램 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "ruby"
-#: ../common/sections_trans.cc:92
+#: ../common/sections_trans.cc:94
 msgid "Ruby Programming Language"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "rust"
-#: ../common/sections_trans.cc:94
+#: ../common/sections_trans.cc:96
+#, fuzzy
 msgid "Rust Programming Language"
-msgstr ""
+msgstr "파이썬 프로그램 언어"
 
 #. TRANSLATORS: Alias for the Debian package section "science"
-#: ../common/sections_trans.cc:96
+#: ../common/sections_trans.cc:98
 msgid "Science"
 msgstr "과학"
 
 #. TRANSLATORS: Alias for the Debian package section "shells"
-#: ../common/sections_trans.cc:98
+#: ../common/sections_trans.cc:100
 msgid "Shells"
 msgstr "쉘"
 
 #. TRANSLATORS: Alias for the Debian package section "sound"
-#: ../common/sections_trans.cc:100
+#: ../common/sections_trans.cc:102
 msgid "Multimedia"
 msgstr "멀티미디어"
 
 #. TRANSLATORS: Alias for the Debian package section "task"
-#: ../common/sections_trans.cc:102 ../common/rpackageview.cc:507
+#: ../common/sections_trans.cc:104 ../common/rpackageview.cc:507
 msgid "Tasks"
 msgstr "태스크"
 
 #. TRANSLATORS: Alias for the Debian package section "tex"
-#: ../common/sections_trans.cc:104
+#: ../common/sections_trans.cc:106
 msgid "TeX Authoring"
 msgstr "TeX 문서 작성"
 
 #. TRANSLATORS: Alias for the Debian package section "text"
-#: ../common/sections_trans.cc:106
+#: ../common/sections_trans.cc:108
 msgid "Word Processing"
 msgstr "문서 처리"
 
 #. TRANSLATORS: Alias for the Debian package section "utils"
-#: ../common/sections_trans.cc:108
+#: ../common/sections_trans.cc:110
 msgid "Utilities"
 msgstr "도구"
 
 #. TRANSLATORS: Alias for the Debian package section "vcs"
-#: ../common/sections_trans.cc:110
+#: ../common/sections_trans.cc:112
 msgid "Version Control Systems"
-msgstr "버전 관리 시스템"
+msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "video"
-#: ../common/sections_trans.cc:112
+#: ../common/sections_trans.cc:114
 msgid "Video software"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "web"
-#: ../common/sections_trans.cc:114
+#: ../common/sections_trans.cc:116
 msgid "World Wide Web"
 msgstr "월드 와이드 웹"
 
 #. TRANSLATORS: Alias for the Debian package section "x11"
-#: ../common/sections_trans.cc:116
-msgid "Miscellaneous  - Graphical"
+#: ../common/sections_trans.cc:118
+msgid "Miscellaneous - Graphical"
 msgstr "기타 - 그래픽"
 
 #. TRANSLATORS: Alias for the Debian package section "xfce"
-#: ../common/sections_trans.cc:118
+#: ../common/sections_trans.cc:120
 msgid "Xfce Desktop Environment"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "zope"
-#: ../common/sections_trans.cc:120
+#: ../common/sections_trans.cc:122
 msgid "Zope/Plone Environment"
 msgstr ""
 
 #. TRANSLATORS: The section of the package is not known
-#: ../common/sections_trans.cc:122 ../common/rpackage.cc:116
+#: ../common/sections_trans.cc:124 ../common/rpackage.cc:117
 #: ../common/rpackageview.cc:610
 msgid "Unknown"
 msgstr "알 수 없음"
 
 #. TRANSLATORS: Alias for the Debian package section "alien"
-#: ../common/sections_trans.cc:124
+#: ../common/sections_trans.cc:126
 msgid "Converted From RPM by Alien"
 msgstr "alien으로 RPM에서 변환"
 
 #. TRANSLATORS: Ubuntu translations section
-#: ../common/sections_trans.cc:126
+#: ../common/sections_trans.cc:128
 msgid "Internationalization and localization"
 msgstr "국제화 및 지역화"
 
 #. TRANSLATORS: metapackages section
-#: ../common/sections_trans.cc:128
+#: ../common/sections_trans.cc:130
 msgid "Meta Packages"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "education"
-#: ../common/sections_trans.cc:130
+#: ../common/sections_trans.cc:132
 msgid "Education"
 msgstr ""
 
 #. TRANSLATORS: Alias for the Debian package section "introspection"
-#: ../common/sections_trans.cc:132
+#: ../common/sections_trans.cc:134
 msgid "GObject Introspection data"
 msgstr ""
 
-#. TRANSLATORS: Alias for the Debian package section "non-US"
-#. Export to the outside of the USA is not allowed
-#. or restricted
-#: ../common/sections_trans.cc:137 ../common/sections_trans.cc:155
-#: ../common/sections_trans.cc:159
-msgid "Restricted On Export"
-msgstr "미국에서 수출 제한"
-
 #. TRANSLATORS: Alias for the Debian package section "non free"
-#: ../common/sections_trans.cc:139 ../common/sections_trans.cc:156
+#: ../common/sections_trans.cc:137
 msgid "non free"
 msgstr "자유 아님"
 
 #. TRANSLATORS: Alias for the Debian package section "contrib"
 #. Free software that depends on non-free software
-#: ../common/sections_trans.cc:142 ../common/sections_trans.cc:160
+#: ../common/sections_trans.cc:140
 msgid "contrib"
 msgstr "자유 제한적"
-
-#: ../common/indexcopy.cc:51 ../common/rpmindexcopy.cc:75
-#, c-format
-msgid "Stat failed for %s"
-msgstr "%s 파일의 정보를 읽는 데 실패했습니다"
-
-#: ../common/indexcopy.cc:78 ../common/rpmindexcopy.cc:107
-msgid "Unable to create a tmp file"
-msgstr "임시 파일을 만들 수 없습니다"
-
-#: ../common/indexcopy.cc:107
-msgid "gzip failed, perhaps the disk is full."
-msgstr "gzip이 실패했습니다. 디스크 용량이 가득 찬 것으로 보입니다."
-
-#: ../common/indexcopy.cc:128
-msgid "Failed to reopen fd"
-msgstr "파일 디스크립터를 다시 열 수 없습니다"
-
-#: ../common/indexcopy.cc:218 ../common/indexcopy.cc:242
-#: ../common/rpmindexcopy.cc:169 ../common/rpmindexcopy.cc:205
-msgid "Failed to rename"
-msgstr "이름을 바꿀 수 없습니다"
-
-#: ../common/indexcopy.cc:266
-msgid "No valid records were found."
-msgstr "유효한 레코드가 없습니다."
-
-#: ../common/indexcopy.cc:441
-msgid "Cannot find filename or size tag"
-msgstr "파일 이름이나 크기 태그를 찾을 수 없습니다"
-
-#: ../common/indexcopy.cc:485
-msgid "Error parsing file record"
-msgstr "파일 레코드 해석 오류"
 
 #: ../common/rcdscanner.cc:112 ../common/rcdscanner.cc:162
 #, c-format
@@ -589,7 +484,7 @@ msgstr "오류: %s 기록 디렉토리를 만들 수 없습니다"
 msgid "couldn't open %s for writing"
 msgstr "%s 파일을 쓰기 모드로 열 수 없습니다"
 
-#: ../common/rinstallprogress.cc:41
+#: ../common/rinstallprogress.cc:42
 msgid ""
 "\n"
 "Successfully applied all changes. You can close the window now."
@@ -597,14 +492,14 @@ msgstr ""
 "\n"
 "변경 사항을 성공적으로 적용하였습니다. 이제 창을 닫아도 됩니다."
 
-#: ../common/rinstallprogress.cc:42
+#: ../common/rinstallprogress.cc:43
 msgid ""
 "\n"
 "Not all changes and updates succeeded. For further details of the failure, "
 "please expand the 'Details' panel below."
 msgstr ""
 
-#: ../common/rinstallprogress.cc:44
+#: ../common/rinstallprogress.cc:45
 msgid ""
 "\n"
 "Successfully installed all packages of the current medium. To continue the "
@@ -614,7 +509,7 @@ msgstr ""
 "현재 미디어에 있는 패키지의 설치가 모두 끝났습니다. 다음 미디어에서 설치를 계"
 "속하려면 이 창을 닫으십시오."
 
-#: ../common/rpackage.cc:244
+#: ../common/rpackage.cc:254
 msgid "The list of installed files is only available for installed packages"
 msgstr "설치한 파일의 목록은 설치한 패키지의 경우에만 알 수 있습니다"
 
@@ -689,48 +584,48 @@ msgstr "%s: %s, 하지만 이 패키지는 설치하지 않습니다"
 msgid " or"
 msgstr " 또는"
 
-#: ../common/rpackage.cc:1134
+#: ../common/rpackage.cc:1096
 msgid "Invalid record in the preferences file, no Package header"
 msgstr "기본 설정 파일에 패키지 헤더가 없는 잘못된 내용이 있습니다"
 
-#: ../common/rpackage.h:54 ../common/rpackagefilter.cc:49
+#: ../common/rpackage.h:53 ../common/rpackagefilter.cc:49
 msgid "Depends"
 msgstr "의존"
 
-#: ../common/rpackage.h:55
+#: ../common/rpackage.h:54
 msgid "PreDepends"
 msgstr "미리 의존"
 
-#: ../common/rpackage.h:56 ../common/rpackagefilter.cc:54
+#: ../common/rpackage.h:55 ../common/rpackagefilter.cc:54
 msgid "Suggests"
 msgstr "제안"
 
-#: ../common/rpackage.h:57 ../common/rpackagefilter.cc:53
+#: ../common/rpackage.h:56 ../common/rpackagefilter.cc:53
 msgid "Recommends"
 msgstr "추천"
 
-#: ../common/rpackage.h:58 ../common/rpackagefilter.cc:51
+#: ../common/rpackage.h:57 ../common/rpackagefilter.cc:51
 msgid "Conflicts"
 msgstr "충돌"
 
-#: ../common/rpackage.h:59 ../common/rpackagefilter.cc:52
+#: ../common/rpackage.h:58 ../common/rpackagefilter.cc:52
 msgid "Replaces"
 msgstr "대체"
 
-#: ../common/rpackage.h:60
+#: ../common/rpackage.h:59
 msgid "Obsoletes"
 msgstr "더 이상 사용하지 않음"
 
-#: ../common/rpackage.h:61
+#: ../common/rpackage.h:60
 msgid "Breaks"
 msgstr "망가짐"
 
-#: ../common/rpackage.h:62
+#: ../common/rpackage.h:61
 msgid "Enhances"
 msgstr "향상"
 
 #. make sure this is always the last member
-#: ../common/rpackage.h:70
+#: ../common/rpackage.h:69
 msgid "Dependency of"
 msgstr "다음이 의존"
 
@@ -768,12 +663,12 @@ msgid "Not installed (locked)"
 msgstr "설치하지 않음 (고정)"
 
 #: ../common/rpackagestatus.cc:57 ../common/rpackageview.cc:138
-#: ../gtk/gsynaptic.cc:572 ../gtk/gtkbuilder/window_filters.ui.h:10
+#: ../gtk/gsynaptic.cc:579 ../gtk/gtkbuilder/window_filters.ui.h:10
 msgid "Installed"
 msgstr "설치함"
 
 #: ../common/rpackagestatus.cc:58 ../common/rpackageview.cc:175
-#: ../gtk/gsynaptic.cc:561
+#: ../gtk/gsynaptic.cc:568
 msgid "Installed (upgradable)"
 msgstr "설치함 (업그레이드 가능)"
 
@@ -790,29 +685,17 @@ msgstr "깨짐"
 msgid "Not installed (new in repository)"
 msgstr "설치하지 않음 (저장소에 새로 들어옴)"
 
-#: ../common/rpackagecache.cc:62
-msgid ""
-"The list of sources could not be read.\n"
-"Go to the repository dialog to correct the problem."
-msgstr ""
-"소스 목록을 읽을 수 없습니다.\n"
-"문제를 해결하려면 저장소 창으로 가십시오."
-
-#: ../common/rpackagecache.cc:73
-msgid "The package lists or status file could not be parsed or opened."
-msgstr "패키지 목록이나 상태 파일을 해석할 수 없거나 열 수 없습니다."
-
-#: ../common/rpackagecache.cc:112
+#: ../common/rpackagecache.cc:64
 msgid "Internal Error, non-zero counts"
 msgstr "내부 오류: 카운트가 0이 아닙니다"
 
 #: ../common/rpackagefilter.cc:45 ../gtk/rgfindwindow.h:32
-#: ../gtk/rgpreferenceswindow.cc:1163 ../gtk/rggtkbuilderwindow.cc:214
+#: ../gtk/rgpreferenceswindow.cc:1167
 msgid "Name"
 msgstr "이름"
 
 #: ../common/rpackagefilter.cc:46 ../gtk/rgpreferenceswindow.cc:53
-#: ../gtk/rgpkgtreeview.cc:228 ../gtk/rgvendorswindow.cc:63
+#: ../gtk/rgpkgtreeview.cc:257 ../gtk/rgvendorswindow.cc:63
 #: ../gtk/rgvendorswindow.cc:95 ../gtk/gtkbuilder/window_main.ui.h:65
 #: ../gtk/gtkbuilder/window_details.ui.h:21 ../gtk/rgfiltermanager.h:70
 msgid "Description"
@@ -843,7 +726,7 @@ msgstr "출처"
 
 #. Origin (e.g. security.debian.org)
 #: ../common/rpackagefilter.cc:57 ../gtk/rgpreferenceswindow.cc:52
-#: ../gtk/rgpkgtreeview.cc:121 ../gtk/rgfiltermanager.h:81
+#: ../gtk/rgpkgtreeview.cc:134 ../gtk/rgfiltermanager.h:81
 msgid "Component"
 msgstr "구성 요소"
 
@@ -859,7 +742,7 @@ msgid "Pattern"
 msgstr "패턴"
 
 #: ../common/rpackagefilter.cc:64 ../gtk/rgpreferenceswindow.cc:51
-#: ../gtk/rgpkgtreeview.cc:100 ../gtk/gtkbuilder/window_filters.ui.h:54
+#: ../gtk/rgpkgtreeview.cc:110 ../gtk/gtkbuilder/window_filters.ui.h:54
 msgid "Section"
 msgstr "분류"
 
@@ -880,8 +763,8 @@ msgstr "파일"
 msgid "Bad regular expression '%s' in ReducedView file."
 msgstr "간단히 보기 파일 안에 잘못된 정규식 '%s'이(가) 있습니다."
 
-#: ../common/rpackagelister.cc:325 ../common/rpackagelister.cc:331
-#: ../common/rpackagelister.cc:341
+#: ../common/rpackagelister.cc:327 ../common/rpackagelister.cc:333
+#: ../common/rpackagelister.cc:343
 #, c-format
 msgid "Internal error opening cache (%d). Please report."
 msgstr "캐시(%d)를 열다가 내부 오류가 발생했습니다. 저희에게 알려주십시오."
@@ -1016,23 +899,36 @@ msgstr ""
 msgid "Unable to lock the download directory"
 msgstr "다운로드 디렉토리를 잠글 수 없습니다"
 
-#: ../common/rpackagelister.cc:1806
+#: ../common/rpackagelister.cc:1816
 #, c-format
 msgid "Line %u too long in markings file."
 msgstr "표시모음 파일의 %u번 줄이 너무 깁니다."
 
-#: ../common/rpackagelister.cc:1819 ../common/rpackagelister.cc:1823
+#: ../common/rpackagelister.cc:1829 ../common/rpackagelister.cc:1833
 #, c-format
 msgid "Malformed line %u in markings file"
 msgstr "표시모음 파일의 %u번 줄이 잘못되었습니다"
 
-#: ../common/rpackagelister.cc:1840
+#: ../common/rpackagelister.cc:1850
 msgid "Setting markings..."
 msgstr "표시모음을 설정하는 중입니다..."
+
+#: ../common/rpmindexcopy.cc:75
+#, c-format
+msgid "Stat failed for %s"
+msgstr "%s 파일의 정보를 읽는 데 실패했습니다"
+
+#: ../common/rpmindexcopy.cc:107
+msgid "Unable to create a tmp file"
+msgstr "임시 파일을 만들 수 없습니다"
 
 #: ../common/rpmindexcopy.cc:135
 msgid "bzip2 failed, perhaps the disk is full."
 msgstr "bzip2이 실패했습니다. 디스크가 꽉 찬 것 같습니다."
+
+#: ../common/rpmindexcopy.cc:169 ../common/rpmindexcopy.cc:205
+msgid "Failed to rename"
+msgstr "이름을 바꿀 수 없습니다"
 
 #: ../common/rpackageview.h:106
 msgid "Sections"
@@ -1104,7 +1000,7 @@ msgstr "찾기 필터"
 msgid "Reduced View"
 msgstr "간단히 보기"
 
-#: ../common/rpackageview.cc:530 ../gtk/gsynaptic.cc:586
+#: ../common/rpackageview.cc:530 ../gtk/gsynaptic.cc:593
 #: ../gtk/rgsummarywindow.cc:359
 msgid "Marked Changes"
 msgstr "변경 사항 표시"
@@ -1137,9 +1033,9 @@ msgstr "로컬"
 msgid "Not automatic: "
 msgstr ""
 
-#: ../common/rsources.cc:69 ../gtk/rgmainwindow.cc:2045
-#: ../gtk/rgmainwindow.cc:2755 ../gtk/rgmainwindow.cc:2888
-#: ../gtk/rgmainwindow.cc:3067
+#: ../common/rsources.cc:69 ../gtk/rgmainwindow.cc:2046
+#: ../gtk/rgmainwindow.cc:2761 ../gtk/rgmainwindow.cc:2894
+#: ../gtk/rgmainwindow.cc:3073
 #, c-format
 msgid "Can't read %s"
 msgstr "%s을(를) 읽을 수 없습니다"
@@ -1244,17 +1140,31 @@ msgid ""
 "or aptitude) is already running. Please close that application first."
 msgstr ""
 
-#: ../gtk/gsynaptic.cc:430
+#: ../gtk/gsynaptic.cc:414
+msgid "Failed to initialize GTK.\n"
+msgstr "이름을 바꿀 수 없습니다\n"
+
+#: ../gtk/gsynaptic.cc:416
+msgid "Probably you're running Synaptic on Wayland with root permission.\n"
+msgstr ""
+
+#: ../gtk/gsynaptic.cc:417
+msgid ""
+"Please restart your session without Wayland, or run Synaptic without root "
+"permission\n"
+msgstr ""
+
+#: ../gtk/gsynaptic.cc:437
 msgid "Starting \"Synaptic Package Manager\" without administrative privileges"
 msgstr ""
 
-#: ../gtk/gsynaptic.cc:432
+#: ../gtk/gsynaptic.cc:439
 msgid ""
 "You will not be able to apply any changes, but you can still export the "
 "marked changes or create a download script for them."
 msgstr ""
 
-#: ../gtk/gsynaptic.cc:487
+#: ../gtk/gsynaptic.cc:494
 msgid "Synaptic Package Manager "
 msgstr "시냅틱 패키지 관리자 "
 
@@ -1281,7 +1191,7 @@ msgstr "시냅틱 정보"
 
 #: ../gtk/rgchangelogdialog.cc:26
 msgid "Downloading Changelog"
-msgstr "변경 로그를 다운로드하는 중입니다"
+msgstr ""
 
 #: ../gtk/rgchangelogdialog.cc:27
 msgid ""
@@ -1343,14 +1253,14 @@ msgstr "다시 설치"
 msgid "To be kept"
 msgstr "유지"
 
-#: ../gtk/rgdebinstallprogress.cc:216
+#: ../gtk/rgdebinstallprogress.cc:217
 #, c-format
 msgid ""
 "Replace configuration file\n"
 "'%s'?"
 msgstr "'%s' 설정 파일을 바꾸시겠습니까?"
 
-#: ../gtk/rgdebinstallprogress.cc:217
+#: ../gtk/rgdebinstallprogress.cc:218
 #, c-format
 msgid ""
 "The configuration file %s was modified (by you or by a script). An updated "
@@ -1363,53 +1273,53 @@ msgstr ""
 "선택하십시오. 현재 파일을 덮어 써서 새로운 패키지에 들어 있는 메인테이너 버전"
 "을 설치하시겠습니까? "
 
-#: ../gtk/rgdebinstallprogress.cc:355 ../gtk/rginstallprogress.cc:295
-#: ../gtk/rgterminstallprogress.cc:61
+#: ../gtk/rgdebinstallprogress.cc:356 ../gtk/rginstallprogress.cc:295
+#: ../gtk/rgterminstallprogress.cc:62
 msgid "Applying Changes"
 msgstr "변경 사항을 적용하는 중입니다"
 
-#: ../gtk/rgdebinstallprogress.cc:409
+#: ../gtk/rgdebinstallprogress.cc:410
 msgid "Copy"
 msgstr "복사"
 
-#: ../gtk/rgdebinstallprogress.cc:416
+#: ../gtk/rgdebinstallprogress.cc:417
 msgid "Select All"
 msgstr "모두 선택"
 
-#: ../gtk/rgdebinstallprogress.cc:470
+#: ../gtk/rgdebinstallprogress.cc:471
 msgid "Ctrl-c pressed"
 msgstr ""
 
-#: ../gtk/rgdebinstallprogress.cc:471
+#: ../gtk/rgdebinstallprogress.cc:472
 msgid ""
 "This will abort the operation and may leave the system in a broken state. "
 "Are you sure you want to do that?"
 msgstr ""
 
 #. error from dpkg, needs to be parsed different
-#: ../gtk/rgdebinstallprogress.cc:572
+#: ../gtk/rgdebinstallprogress.cc:573
 #, c-format
 msgid "Error in package %s"
 msgstr "%s 패키지에 오류"
 
 #. running dpkg --configure -a
-#: ../gtk/rgdebinstallprogress.cc:579
+#: ../gtk/rgdebinstallprogress.cc:580
 msgid "Trying to recover from package failure"
 msgstr ""
 
-#: ../gtk/rgdebinstallprogress.cc:671
+#: ../gtk/rgdebinstallprogress.cc:672
 msgid "Error failed to fork pty"
 msgstr ""
 
-#: ../gtk/rgdebinstallprogress.cc:687
+#: ../gtk/rgdebinstallprogress.cc:689
 msgid "A package failed to install.  Trying to recover:"
 msgstr "패키지를 설치하는 데 실패했습니다. 복구 시도합니다:"
 
-#: ../gtk/rgdebinstallprogress.cc:760 ../gtk/rgdebinstallprogress.cc:763
+#: ../gtk/rgdebinstallprogress.cc:762 ../gtk/rgdebinstallprogress.cc:765
 msgid "Changes applied"
 msgstr "변경 사항을 적용했습니다"
 
-#: ../gtk/rgdebinstallprogress.cc:829
+#: ../gtk/rgdebinstallprogress.cc:831
 msgid ""
 "The marked changes are now being applied. This can take some time. Please "
 "wait."
@@ -1417,15 +1327,15 @@ msgstr ""
 "표시한 사항을 적용하는 중입니다. 시간이 좀 걸릴 수 있습니다. 잠시 기다려 주십"
 "시오."
 
-#: ../gtk/rgdebinstallprogress.cc:833
+#: ../gtk/rgdebinstallprogress.cc:835
 msgid "Installing and removing software"
 msgstr "소프트웨어를 설치하고 지우는 중입니다"
 
-#: ../gtk/rgdebinstallprogress.cc:835
+#: ../gtk/rgdebinstallprogress.cc:837
 msgid "Removing software"
 msgstr "소프트웨어를 지우는 중입니다"
 
-#: ../gtk/rgdebinstallprogress.cc:837
+#: ../gtk/rgdebinstallprogress.cc:839
 msgid "Installing software"
 msgstr "소프트웨어를 설치하는 중입니다"
 
@@ -1452,26 +1362,22 @@ msgstr "지원함"
 msgid "Package Name"
 msgstr "패키지 이름"
 
-#: ../gtk/rgpreferenceswindow.cc:52 ../gtk/rgpkgtreeview.cc:143
+#: ../gtk/rgpreferenceswindow.cc:52 ../gtk/rgpkgtreeview.cc:160
 msgid "Installed Version"
 msgstr "설치한 버전"
 
-#: ../gtk/rgpreferenceswindow.cc:52 ../gtk/rgpkgtreeview.cc:164
+#: ../gtk/rgpreferenceswindow.cc:52 ../gtk/rgpkgtreeview.cc:184
 msgid "Latest Version"
 msgstr "최신 버전"
 
 #: ../gtk/rgpreferenceswindow.cc:53 ../gtk/rgfetchprogress.cc:105
-#: ../gtk/rgpkgtreeview.cc:185
+#: ../gtk/rgpkgtreeview.cc:208
 msgid "Size"
 msgstr "크기"
 
 #: ../gtk/rgpreferenceswindow.cc:53
 msgid "Download Size"
 msgstr "다운로드 크기"
-
-#: ../gtk/rgpreferenceswindow.cc:53 ../gtk/rgpkgtreeview.cc:246
-msgid "CVE Score"
-msgstr "CVE 분석 점수"
 
 #: ../gtk/rgpreferenceswindow.cc:59
 msgid "Keep Configuration"
@@ -1501,20 +1407,20 @@ msgstr "기본 업그레이드"
 msgid "Smart Upgrade"
 msgstr "똑똑한 업그레이드"
 
-#: ../gtk/rgpreferenceswindow.cc:404 ../gtk/rgmainwindow.cc:1733
-#: ../gtk/rgterminstallprogress.cc:163
+#: ../gtk/rgpreferenceswindow.cc:408 ../gtk/rgmainwindow.cc:1734
+#: ../gtk/rgterminstallprogress.cc:164
 msgid "An error occurred while saving configurations."
 msgstr "설정을 저장하는 데 오류가 발생했습니다."
 
-#: ../gtk/rgpreferenceswindow.cc:455 ../gtk/rgpreferenceswindow.cc:461
+#: ../gtk/rgpreferenceswindow.cc:459 ../gtk/rgpreferenceswindow.cc:465
 msgid "Choose font"
 msgstr "글꼴 선택"
 
-#: ../gtk/rgpreferenceswindow.cc:923 ../gtk/rgpreferenceswindow.cc:927
+#: ../gtk/rgpreferenceswindow.cc:927 ../gtk/rgpreferenceswindow.cc:931
 msgid "Color selection"
 msgstr "색 선택"
 
-#: ../gtk/rgpreferenceswindow.cc:1106
+#: ../gtk/rgpreferenceswindow.cc:1110
 msgid ""
 "Prefer package versions from the selected distribution when upgrading "
 "packages. If you manually force a version from a different distribution, the "
@@ -1525,29 +1431,29 @@ msgstr ""
 "포판에서 특정 버전을 수동으로 강제로 설치할 경우, 다시 기본 배포판을 입력할 "
 "때까지는 해당 패키지의 버전은 그 배포판을 따라갑니다."
 
-#: ../gtk/rgpreferenceswindow.cc:1114
+#: ../gtk/rgpreferenceswindow.cc:1118
 msgid ""
 "Never upgrade to a new version automatically. Be _very_ careful with this "
 "option as you will not get security updates automatically! If you manually "
 "force a version the package version will follow the chosen distribution."
 msgstr ""
 
-#: ../gtk/rgpreferenceswindow.cc:1122
+#: ../gtk/rgpreferenceswindow.cc:1126
 msgid "Let synaptic pick the best version for you. If unsure use this option. "
 msgstr ""
 "시냅틱에서 알아서 가장 좋은 버전을 고릅니다. 잘 모르겠으면 이 옵션을 사용하십"
 "시오. "
 
-#: ../gtk/rgpreferenceswindow.cc:1157
+#: ../gtk/rgpreferenceswindow.cc:1161
 msgid "Visible"
 msgstr "표시"
 
-#: ../gtk/rgpreferenceswindow.cc:1239
+#: ../gtk/rgpreferenceswindow.cc:1243
 #: ../gtk/gtkbuilder/window_preferences.ui.h:1
 msgid "Preferences"
 msgstr "기본 설정"
 
-#: ../gtk/rgfetchprogress.cc:112 ../gtk/rgpkgtreeview.cc:78
+#: ../gtk/rgfetchprogress.cc:112 ../gtk/rgpkgtreeview.cc:85
 msgid "Package"
 msgstr "패키지"
 
@@ -1555,7 +1461,7 @@ msgstr "패키지"
 msgid "URI"
 msgstr "URI"
 
-#: ../gtk/rgfetchprogress.cc:208
+#: ../gtk/rgfetchprogress.cc:209
 #, c-format
 msgid ""
 "Please insert the disk labeled:\n"
@@ -1566,33 +1472,33 @@ msgstr ""
 "%s\n"
 "드라이브 %s에 넣으십시오."
 
-#: ../gtk/rgfetchprogress.cc:350
+#: ../gtk/rgfetchprogress.cc:357
 #, c-format
 msgid "Download rate: %s/s - %s remaining"
 msgstr "다운로드 속도: %s/s - %s 남음"
 
-#: ../gtk/rgfetchprogress.cc:356
+#: ../gtk/rgfetchprogress.cc:363
 msgid "Download rate: ..."
 msgstr "다운로드 속도: ..."
 
-#: ../gtk/rgfetchprogress.cc:358
+#: ../gtk/rgfetchprogress.cc:365
 #, c-format
 msgid "Downloading file %li of %li"
 msgstr "%2$li개 중 %1$li번째 파일을 다운로드하는 중입니다"
 
-#: ../gtk/rgfetchprogress.cc:411
+#: ../gtk/rgfetchprogress.cc:418
 msgid "Queued"
 msgstr "대기"
 
-#: ../gtk/rgfetchprogress.cc:414
+#: ../gtk/rgfetchprogress.cc:421
 msgid "Done"
 msgstr "완료"
 
-#: ../gtk/rgfetchprogress.cc:417
+#: ../gtk/rgfetchprogress.cc:424
 msgid "Hit"
 msgstr "기존"
 
-#: ../gtk/rgfetchprogress.cc:420
+#: ../gtk/rgfetchprogress.cc:427
 msgid "Failed"
 msgstr "실패"
 
@@ -1658,7 +1564,7 @@ msgid ""
 "Expression was found, please see the list on the left for matching entries."
 msgstr "해당 표현식을 찾았습니다. 왼쪽 목록에서 해당하는 항목을 보십시오."
 
-#: ../gtk/rgpkgdetails.cc:157 ../gtk/gtkbuilder/window_about.ui.h:3
+#: ../gtk/rgpkgdetails.cc:144 ../gtk/gtkbuilder/window_about.ui.h:3
 #: ../gtk/gtkbuilder/window_setopt.ui.h:1
 #: ../gtk/gtkbuilder/window_rgdebinstall_progress.ui.h:5
 #: ../gtk/gtkbuilder/window_rginstall_progress_msgs.ui.h:3
@@ -1675,28 +1581,28 @@ msgstr "해당 표현식을 찾았습니다. 왼쪽 목록에서 해당하는 �
 msgid "_Close"
 msgstr "닫기(_C)"
 
-#: ../gtk/rgpkgdetails.cc:233
+#: ../gtk/rgpkgdetails.cc:244
 #, c-format
 msgid "%s Properties"
 msgstr "%s 속성"
 
-#: ../gtk/rgpkgdetails.cc:310
+#: ../gtk/rgpkgdetails.cc:321
 msgid "This application is supported by the distribution"
 msgstr "이 프로그램은 배포판이 지원합니다"
 
-#: ../gtk/rgpkgdetails.cc:320
+#: ../gtk/rgpkgdetails.cc:331
 msgid "Get Screenshot"
 msgstr "스크린샷 보기"
 
-#: ../gtk/rgpkgdetails.cc:334
+#: ../gtk/rgpkgdetails.cc:348
 msgid "Get Changelog"
 msgstr "변경 로그 보기"
 
-#: ../gtk/rgpkgdetails.cc:346
+#: ../gtk/rgpkgdetails.cc:362
 msgid "Visit Homepage"
 msgstr "홈페이지 방문"
 
-#: ../gtk/rgpkgdetails.cc:347
+#: ../gtk/rgpkgdetails.cc:363
 #, c-format
 msgid "Visit %s"
 msgstr "%s 방문"
@@ -1705,17 +1611,17 @@ msgstr "%s 방문"
 #. the "Properties/Available versions" window
 #. e.g. "0.56 (unstable)"
 #. "0.53.4 (testing)"
-#: ../gtk/rgpkgdetails.cc:399
+#: ../gtk/rgpkgdetails.cc:415
 #, c-format
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
 #. TRANSLATORS: Column header for the column "Status" in the package list
-#: ../gtk/rgpkgtreeview.cc:43
+#: ../gtk/rgpkgtreeview.cc:49
 msgid "S"
 msgstr "S"
 
-#: ../gtk/rgpkgtreeview.cc:206
+#: ../gtk/rgpkgtreeview.cc:233
 msgid "Download"
 msgstr "다운로드"
 
@@ -1758,7 +1664,7 @@ msgstr ""
 msgid "Rebuilding search index"
 msgstr "검색 인덱스를 다시 만드는 중"
 
-#: ../gtk/rgmainwindow.cc:920 ../gtk/gtkbuilder/window_main.ui.h:57
+#: ../gtk/rgmainwindow.cc:920 ../gtk/gtkbuilder/window_main.ui.h:56
 msgid "Quick filter"
 msgstr "빠른 필터"
 
@@ -1786,59 +1692,59 @@ msgstr "패키지 속성 보기"
 msgid "Search for packages"
 msgstr "패키지 검색"
 
-#: ../gtk/rgmainwindow.cc:1408
+#: ../gtk/rgmainwindow.cc:1409
 msgid "Unmark"
 msgstr "표시 지우기"
 
-#: ../gtk/rgmainwindow.cc:1414
+#: ../gtk/rgmainwindow.cc:1415
 msgid "Mark for Installation"
 msgstr "설치 표시"
 
-#: ../gtk/rgmainwindow.cc:1420
+#: ../gtk/rgmainwindow.cc:1421
 msgid "Mark for Reinstallation"
 msgstr "다시 설치 표시"
 
-#: ../gtk/rgmainwindow.cc:1427
+#: ../gtk/rgmainwindow.cc:1428
 msgid "Mark for Upgrade"
 msgstr "업그레이드 표시"
 
-#: ../gtk/rgmainwindow.cc:1433
+#: ../gtk/rgmainwindow.cc:1434
 msgid "Mark for Removal"
 msgstr "지우기 표시"
 
-#: ../gtk/rgmainwindow.cc:1440
+#: ../gtk/rgmainwindow.cc:1441
 msgid "Mark for Complete Removal"
 msgstr "완전히 지우기 표시"
 
-#: ../gtk/rgmainwindow.cc:1450
+#: ../gtk/rgmainwindow.cc:1451
 msgid "Remove Including Orphaned Dependencies"
 msgstr "사라진 의존성 포함해 지우기"
 
-#: ../gtk/rgmainwindow.cc:1460
+#: ../gtk/rgmainwindow.cc:1461
 msgid "Hold Current Version"
 msgstr "현재 버전 고정"
 
-#: ../gtk/rgmainwindow.cc:1469 ../gtk/gtkbuilder/window_main.ui.h:56
+#: ../gtk/rgmainwindow.cc:1470 ../gtk/gtkbuilder/window_main.ui.h:57
 #: ../gtk/gtkbuilder/window_filters.ui.h:58
 msgid "Properties"
 msgstr "속성"
 
-#: ../gtk/rgmainwindow.cc:1479
+#: ../gtk/rgmainwindow.cc:1480
 msgid "Mark Recommended for Installation"
 msgstr "설치 권장 표시"
 
-#: ../gtk/rgmainwindow.cc:1483
+#: ../gtk/rgmainwindow.cc:1484
 msgid "Mark Suggested for Installation"
 msgstr "설치 제안 표시"
 
-#: ../gtk/rgmainwindow.cc:1629
+#: ../gtk/rgmainwindow.cc:1630
 #, c-format
 msgid ""
 "Removing package \"%s\" may render the system unusable.\n"
 "Are you sure you want to do that?"
 msgstr ""
 
-#: ../gtk/rgmainwindow.cc:1672
+#: ../gtk/rgmainwindow.cc:1673
 #, c-format
 msgid ""
 "%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
@@ -1847,7 +1753,7 @@ msgstr ""
 "%i개 패키지 목록, %i개 설치됨, %i개 깨짐. %i개 설치/업그레이드 예정, %i개 지"
 "울 예정; %s만큼의 용량 확보 예정"
 
-#: ../gtk/rgmainwindow.cc:1678
+#: ../gtk/rgmainwindow.cc:1679
 #, c-format
 msgid ""
 "%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
@@ -1856,7 +1762,7 @@ msgstr ""
 "%i개 패키지 목록, %i개 설치, %i개 깨짐. %i개 설치/업그레이드 예정, %i개 지울 "
 "예정; %s만큼의 용량 더 차지 예정"
 
-#: ../gtk/rgmainwindow.cc:1684
+#: ../gtk/rgmainwindow.cc:1685
 #, c-format
 msgid ""
 "%i packages listed, %i installed, %i broken. %i to install/upgrade, %i to "
@@ -1865,7 +1771,7 @@ msgstr ""
 "%i개 패키지 목록, %i개 설치, %i개 깨짐. %i개 설치/업그레이드 예정, %i개 지울 "
 "예정"
 
-#: ../gtk/rgmainwindow.cc:1750
+#: ../gtk/rgmainwindow.cc:1751
 #, c-format
 msgid ""
 "You have %d broken package on your system!\n"
@@ -1880,18 +1786,18 @@ msgstr[0] ""
 "\n"
 "\"깨짐\" 필터로 찾아 보십시오."
 
-#: ../gtk/rgmainwindow.cc:1988
+#: ../gtk/rgmainwindow.cc:1989
 msgid "Do you want to add another CD-ROM?"
 msgstr "다른 CD-ROM을 더하시겠습니까?"
 
-#: ../gtk/rgmainwindow.cc:2025
+#: ../gtk/rgmainwindow.cc:2026
 msgid "Open changes"
 msgstr "변경 사항 열기"
 
-#: ../gtk/rgmainwindow.cc:2028 ../gtk/rgmainwindow.cc:2098
-#: ../gtk/rgmainwindow.cc:2234 ../gtk/rgmainwindow.cc:3380
-#: ../gtk/rgmainwindow.cc:3407 ../gtk/gtkbuilder/window_find.ui.h:1
-#: ../gtk/gtkbuilder/window_fetch.ui.h:2
+#: ../gtk/rgmainwindow.cc:2029 ../gtk/rgmainwindow.cc:2099
+#: ../gtk/rgmainwindow.cc:2235 ../gtk/rgmainwindow.cc:3386
+#: ../gtk/rgmainwindow.cc:3413 ../gtk/gtkbuilder/window_find.ui.h:1
+#: ../gtk/gtkbuilder/window_fetch.ui.h:3
 #: ../gtk/gtkbuilder/window_changes.ui.h:1
 #: ../gtk/gtkbuilder/window_preferences.ui.h:76
 #: ../gtk/gtkbuilder/window_disc_name.ui.h:4
@@ -1910,36 +1816,36 @@ msgstr "변경 사항 열기"
 msgid "_Cancel"
 msgstr "취소(_C)"
 
-#: ../gtk/rgmainwindow.cc:2029 ../gtk/rgmainwindow.cc:3408
+#: ../gtk/rgmainwindow.cc:2030 ../gtk/rgmainwindow.cc:3414
 msgid "_Open"
 msgstr "열기(_O)"
 
-#: ../gtk/rgmainwindow.cc:2076 ../gtk/rgmainwindow.cc:2673
-#: ../gtk/rgmainwindow.cc:2855 ../gtk/rgmainwindow.cc:3040
+#: ../gtk/rgmainwindow.cc:2077 ../gtk/rgmainwindow.cc:2679
+#: ../gtk/rgmainwindow.cc:2861 ../gtk/rgmainwindow.cc:3046
 #, c-format
 msgid "Can't write %s"
 msgstr "%s을(를) 쓸 수 없습니다"
 
-#: ../gtk/rgmainwindow.cc:2095
+#: ../gtk/rgmainwindow.cc:2096
 msgid "Save changes"
 msgstr "변경 사항 저장"
 
-#: ../gtk/rgmainwindow.cc:2099 ../gtk/rgmainwindow.cc:3381
+#: ../gtk/rgmainwindow.cc:2100 ../gtk/rgmainwindow.cc:3387
 msgid "_Save"
 msgstr "저장(_S)"
 
-#: ../gtk/rgmainwindow.cc:2102
+#: ../gtk/rgmainwindow.cc:2103
 msgid "Save full state, not only changes"
 msgstr "변경 사항 뿐만 아니라 전체 상태를 저장"
 
-#: ../gtk/rgmainwindow.cc:2219
+#: ../gtk/rgmainwindow.cc:2220
 msgid "Repositories changed"
 msgstr "저장소가 변경되었습니다"
 
 #. TRANSLATORS: this message appears when the user added/removed
 #. a repository (sources.list entry) a reload (apt-get update) is
 #. needed then
-#: ../gtk/rgmainwindow.cc:2223
+#: ../gtk/rgmainwindow.cc:2224
 msgid ""
 "The repository information has changed. You have to click on the \"Reload\" "
 "button for your changes to take effect"
@@ -1947,24 +1853,24 @@ msgstr ""
 "저장소 정보가 바뀌었습니다. 변경 사항을 적용하려면 먼저 \"새로 고침\" 단추를 "
 "눌러야 합니다."
 
-#: ../gtk/rgmainwindow.cc:2234 ../gtk/gtkbuilder/dialog_update_outdated.ui.h:2
+#: ../gtk/rgmainwindow.cc:2235 ../gtk/gtkbuilder/dialog_update_outdated.ui.h:2
 msgid "_Reload"
 msgstr "새로 고침(_R)"
 
-#: ../gtk/rgmainwindow.cc:2238
+#: ../gtk/rgmainwindow.cc:2239
 msgid "Never show this message again"
 msgstr "이 메세지를 다시 표시하지 않기"
 
-#: ../gtk/rgmainwindow.cc:2311
+#: ../gtk/rgmainwindow.cc:2317
 #, c-format
 msgid "Found %i packages"
 msgstr "%i개 패키지 있음"
 
-#: ../gtk/rgmainwindow.cc:2352
+#: ../gtk/rgmainwindow.cc:2358
 msgid "Starting help viewer..."
 msgstr "도움말 보기 프로그램을 시작하고 있습니다...."
 
-#: ../gtk/rgmainwindow.cc:2364
+#: ../gtk/rgmainwindow.cc:2370
 msgid ""
 "No help viewer is installed!\n"
 "\n"
@@ -1975,7 +1881,7 @@ msgid ""
 "line or view the html version located in the 'synaptic/html' folder."
 msgstr ""
 
-#: ../gtk/rgmainwindow.cc:2519
+#: ../gtk/rgmainwindow.cc:2525
 msgid ""
 "Cannot start configuration tool!\n"
 "You have to install the required package 'libgnome2-perl'."
@@ -1983,22 +1889,22 @@ msgstr ""
 "설정 도구를 시작할 수 없습니다!\n"
 "먼저 필요한 'libgnome2-perl' 패키지를 설치해야 합니다."
 
-#: ../gtk/rgmainwindow.cc:2525
+#: ../gtk/rgmainwindow.cc:2531
 msgid "Starting package configuration tool..."
 msgstr "패키지 설정 도구를 시작하고 있습니다..."
 
 #. cout << "RGMainWindow::pkgHelpClicked()" << endl;
-#: ../gtk/rgmainwindow.cc:2546
+#: ../gtk/rgmainwindow.cc:2552
 msgid "Starting package documentation viewer..."
 msgstr "패키지 문서 보기 프로그램을 시작하고 있습니다..."
 
-#: ../gtk/rgmainwindow.cc:2562
+#: ../gtk/rgmainwindow.cc:2568
 msgid ""
 "You have to install the package \"dwww\" to browse the documentation of a "
 "package"
 msgstr "패키지의 문서를 보려면 \"dwww\" 패키지를 설치해야 합니다"
 
-#: ../gtk/rgmainwindow.cc:2637
+#: ../gtk/rgmainwindow.cc:2643
 msgid ""
 "Could not apply changes!\n"
 "Fix broken packages first."
@@ -2006,23 +1912,23 @@ msgstr ""
 "변경 사항을 적용할 수 없습니다!\n"
 "먼저 깨진 패키지를 고치십시오."
 
-#: ../gtk/rgmainwindow.cc:2658
+#: ../gtk/rgmainwindow.cc:2664
 msgid "Applying marked changes. This may take a while..."
 msgstr "표시된 변경 사항을 적용하는 중입니다. 시간이 좀 걸릴 수 있습니다..."
 
-#: ../gtk/rgmainwindow.cc:2662
+#: ../gtk/rgmainwindow.cc:2668
 msgid "Downloading Package Files"
 msgstr "패키지 파일을 다운로드하는 중입니다"
 
-#: ../gtk/rgmainwindow.cc:2738
+#: ../gtk/rgmainwindow.cc:2744
 msgid "Do you want to quit Synaptic?"
 msgstr "시냅틱을 끝내시겠습니까?"
 
-#: ../gtk/rgmainwindow.cc:2840
+#: ../gtk/rgmainwindow.cc:2846
 msgid "Downloading Package Information"
 msgstr "패키지 정보를 다운로드하는 중입니다"
 
-#: ../gtk/rgmainwindow.cc:2841
+#: ../gtk/rgmainwindow.cc:2847
 msgid ""
 "The repositories will be checked for new, removed or upgraded software "
 "packages."
@@ -2030,19 +1936,19 @@ msgstr ""
 "저장소에 새로운 패키지, 지워진 패키지, 업그레이드한 패키지가 있는 지 검사합니"
 "다<."
 
-#: ../gtk/rgmainwindow.cc:2844
+#: ../gtk/rgmainwindow.cc:2850
 msgid "Reloading package information..."
 msgstr "패키지 정보를 다시 읽어들이고 있습니다..."
 
-#: ../gtk/rgmainwindow.cc:2916
+#: ../gtk/rgmainwindow.cc:2922
 msgid "Failed to resolve dependency problems!"
 msgstr "의존성 문제를 해결하는 데 실패했습니다!"
 
-#: ../gtk/rgmainwindow.cc:2918
+#: ../gtk/rgmainwindow.cc:2924
 msgid "Successfully fixed dependency problems"
 msgstr "의존성 문제를 성공적으로 고쳤습니다"
 
-#: ../gtk/rgmainwindow.cc:2934
+#: ../gtk/rgmainwindow.cc:2940
 msgid ""
 "Could not upgrade the system!\n"
 "Fix broken packages first."
@@ -2050,27 +1956,27 @@ msgstr ""
 "시스템을 업그레이드할 수 없습니다!\n"
 "먼저 깨진 패키지를 고치십시오."
 
-#: ../gtk/rgmainwindow.cc:2984
+#: ../gtk/rgmainwindow.cc:2990
 msgid "Marking all available upgrades..."
 msgstr "가능한 모든 업그레이드를 표시하고 있습니다..."
 
-#: ../gtk/rgmainwindow.cc:3001
+#: ../gtk/rgmainwindow.cc:3007
 msgid "Successfully marked available upgrades"
 msgstr "가능한 모든 업그레이드를 성공적으로 표시했습니다"
 
-#: ../gtk/rgmainwindow.cc:3003
+#: ../gtk/rgmainwindow.cc:3009
 msgid "Failed to mark all available upgrades!"
 msgstr "가능한 모든 업그레이드를 표시하는데 실패했습니다!"
 
-#: ../gtk/rgmainwindow.cc:3377
+#: ../gtk/rgmainwindow.cc:3383
 msgid "Save script"
 msgstr "스크립트 저장"
 
-#: ../gtk/rgmainwindow.cc:3404
+#: ../gtk/rgmainwindow.cc:3410
 msgid "Select directory"
 msgstr "디렉토리 선택"
 
-#: ../gtk/rgmainwindow.cc:3416
+#: ../gtk/rgmainwindow.cc:3422
 msgid "Please select a directory"
 msgstr "디렉토리를 선택하십시오"
 
@@ -2309,13 +2215,9 @@ msgstr "취소"
 #. happens when e.g. a package has no installed version (or no
 #. downloadable version)
 #: ../gtk/rggtkbuilderwindow.cc:120 ../gtk/rggtkbuilderwindow.cc:136
-#: ../gtk/rggtkbuilderwindow.cc:154 ../gtk/rggtkbuilderwindow.cc:258
+#: ../gtk/rggtkbuilderwindow.cc:154 ../gtk/rggtkbuilderwindow.cc:217
 msgid "N/A"
 msgstr "없음"
-
-#: ../gtk/rggtkbuilderwindow.cc:221
-msgid "Value"
-msgstr "값"
 
 #: ../gtk/rgfindwindow.cc:146
 msgid "Find"
@@ -2327,7 +2229,7 @@ msgstr "찾기"
 msgid "Description %s"
 msgstr "%s 설명"
 
-#: ../gtk/gtkbuilder/window_main.ui.h:1
+#: ../gtk/gtkbuilder/window_main.ui.h:1 ../gtk/gtkbuilder/window_fetch.ui.h:1
 msgid "Synaptic"
 msgstr "시냅틱"
 
@@ -2485,7 +2387,7 @@ msgstr "설정(_S)"
 
 #: ../gtk/gtkbuilder/window_main.ui.h:38
 msgid "_Preferences"
-msgstr "기본 설정(_P)"
+msgstr "기본 설정"
 
 #: ../gtk/gtkbuilder/window_main.ui.h:39
 msgid "_Repositories"
@@ -2578,7 +2480,7 @@ msgstr "사용자 정의 필터(_F)"
 
 #: ../gtk/gtkbuilder/window_main.ui.h:64
 msgid "_Architecture"
-msgstr "아키텍처(_A)"
+msgstr ""
 
 #: ../gtk/gtkbuilder/window_main.ui.h:66
 #: ../gtk/gtkbuilder/window_details.ui.h:2
@@ -2613,7 +2515,7 @@ msgstr "<b>태그:</b>"
 #: ../gtk/gtkbuilder/window_main.ui.h:72
 #: ../gtk/gtkbuilder/window_details.ui.h:8
 msgid "<b>Source:</b>"
-msgstr "<b>소스:</b>"
+msgstr ""
 
 #: ../gtk/gtkbuilder/window_main.ui.h:73
 #: ../gtk/gtkbuilder/window_details.ui.h:9
@@ -2659,11 +2561,6 @@ msgid "Installed Files"
 msgstr "설치한 파일"
 
 #: ../gtk/gtkbuilder/window_main.ui.h:82
-#: ../gtk/gtkbuilder/window_details.ui.h:18
-msgid "Available versions:"
-msgstr "사용 가능한 버전:"
-
-#: ../gtk/gtkbuilder/window_main.ui.h:83
 #: ../gtk/gtkbuilder/window_details.ui.h:19
 msgid ""
 "<b>Note:</b> To install a version that is different from the default one, "
@@ -2672,20 +2569,10 @@ msgstr ""
 "<b>Note:</b> 기본 버전이 아닌 버전을 설치하려면, 메뉴에서 <b>패키지 -> 버전 "
 "강제...<b>를 선택하십시오."
 
-#: ../gtk/gtkbuilder/window_main.ui.h:84
+#: ../gtk/gtkbuilder/window_main.ui.h:83
 #: ../gtk/gtkbuilder/window_details.ui.h:20
 msgid "Versions"
 msgstr "버전"
-
-#: ../gtk/gtkbuilder/window_main.ui.h:85
-#: ../gtk/gtkbuilder/window_details.ui.h:22
-msgid "Gooroom Package Analysis Details"
-msgstr "구름 패키지 분석 세부 사항"
-
-#: ../gtk/gtkbuilder/window_main.ui.h:86
-#: ../gtk/gtkbuilder/window_details.ui.h:23
-msgid "Analysis"
-msgstr "분석"
 
 #: ../gtk/gtkbuilder/window_about.ui.h:4
 msgid "<span size=\"xx-large\" weight=\"bold\">Synaptic version</span>"
@@ -2789,7 +2676,7 @@ msgstr "찾기:"
 msgid "Look in:"
 msgstr "범위:"
 
-#: ../gtk/gtkbuilder/window_fetch.ui.h:1
+#: ../gtk/gtkbuilder/window_fetch.ui.h:2
 msgid "Show individual files"
 msgstr "개별 파일 보기"
 
@@ -3029,7 +2916,7 @@ msgstr "<b>프록시 서버</b>"
 
 #: ../gtk/gtkbuilder/window_preferences.ui.h:56
 msgid "Direct connection to the Internet"
-msgstr "인터넷에 직접 연결"
+msgstr ""
 
 #: ../gtk/gtkbuilder/window_preferences.ui.h:57
 msgid "Manual proxy configuration"
@@ -3111,7 +2998,7 @@ msgstr "다음에 들어 있는 버전 우선: "
 #: ../gtk/gtkbuilder/window_setopt.ui.h:2
 #: ../gtk/gtkbuilder/window_summary.ui.h:3
 msgid "_Apply"
-msgstr "적용(_A)"
+msgstr "적용"
 
 #: ../gtk/gtkbuilder/window_preferences.ui.h:77
 #: ../gtk/gtkbuilder/window_disc_name.ui.h:5
@@ -3120,7 +3007,7 @@ msgstr "적용(_A)"
 #: ../gtk/gtkbuilder/window_tasks.ui.h:6
 #: ../gtk/gtkbuilder/dialog_authentication.ui.h:3
 msgid "_OK"
-msgstr "확인(_O)"
+msgstr "확인"
 
 #: ../gtk/gtkbuilder/window_disc_name.ui.h:1
 msgid ""
@@ -3342,7 +3229,7 @@ msgstr "모두 선택(_S)"
 
 #: ../gtk/gtkbuilder/window_filters.ui.h:49
 msgid "_Deselect All"
-msgstr "모든 선택됨 취소(_D)"
+msgstr "모든 선택 취소(_D)"
 
 #: ../gtk/gtkbuilder/window_filters.ui.h:50
 msgid "_Invert All"
@@ -3382,11 +3269,11 @@ msgstr "태그"
 
 #: ../gtk/gtkbuilder/window_repositories.ui.h:2
 msgid "_Up"
-msgstr "위로(_U)"
+msgstr ""
 
 #: ../gtk/gtkbuilder/window_repositories.ui.h:3
 msgid "_Down"
-msgstr "아래로(_D)"
+msgstr "다운로드"
 
 #: ../gtk/gtkbuilder/window_repositories.ui.h:4
 msgid "URI:"
@@ -3477,8 +3364,6 @@ msgid ""
 "<b>Note:</b> Changes are not applied instantly. At first you have to mark "
 "all changes and then apply them."
 msgstr ""
-"<b>주의:</b> 바뀐 내용은 바로 적용되지 않습니다. 일단 모든 변경 내용을 표시"
-"한 후에 이를 적용해야 합니다."
 
 #: ../gtk/gtkbuilder/dialog_welcome.ui.h:7
 msgid ""
@@ -3528,14 +3413,17 @@ msgid ""
 "<big><b>Could not download all repository indexes</b></big>\n"
 "\n"
 "The repository may no longer be available or could not be contacted because "
-"of network problems. If available an older version of the failed index will "
-"be used. Otherwise the repository will be ignored. Check your network "
-"connection and ensure the repository address in the preferences is correct."
-msgstr "<big><b>모든 저장소의 인덱스들을 다운로드 할 수 없습니다</b></big>\n"
+"of network problems. \n"
+"If available an older version of the failed index will be used.\n"
+"Otherwise the repository will be ignored. \n"
+"Check your network connection and ensure the repository address in the "
+"preferences is correct."
+msgstr ""
+"<big><b>모든 저장소의 인덱스들을 다운로드 할 수 없습니다</b></big>\n"
 "\n"
-"네트워크 문제로 인해 저장소를 더 이상 사용할 수 없거나 연결할 수 없습니다."
-"사용 가능한 경우 실패한 인덱스의 이전 버전이 사용됩니다."
-"그렇지 않으면 저장소가 무시됩니다."
+"네트워크 문제로 인해 저장소를 더 이상 사용할 수 없거나 연결할 수 없습니다.\n"
+"사용 가능한 경우 실패한 인덱스의 이전 버전이 사용됩니다.\n"
+"그렇지 않으면 저장소가 무시됩니다.\n"
 "네트워크 연결을 확인하고 기본 설정의 저장소 주소가 올바른지 확인하십시오."
 
 #: ../gtk/gtkbuilder/window_iconlegend.ui.h:1 ../gtk/rgiconlegend.cc:42
@@ -3547,6 +3435,10 @@ msgid ""
 "<b>The following icons are used to indicate the current status of a package:"
 "</b>"
 msgstr "<b>아래의 아이콘은 패키지의 현재 상태를 표시합니다:</b>"
+
+#: ../gtk/gtkbuilder/window_details.ui.h:18
+msgid "Available versions:"
+msgstr "사용 가능한 버전:"
 
 #: ../gtk/gtkbuilder/dialog_download_error.ui.h:2
 msgid ""
@@ -3591,7 +3483,7 @@ msgstr "소프트웨어 패키지를 설치하고, 업그레이드하고, 지운
 
 #: ../gtk/gtkbuilder/window_logview.ui.h:4
 msgid "_Find"
-msgstr "찾기(_F)"
+msgstr "찾기"
 
 #: ../gtk/gtkbuilder/dialog_quit.ui.h:3
 msgid ""
@@ -3732,7 +3624,7 @@ msgstr "소프트웨어 패키지를 설치, 지우기, 업그레이드"
 
 #: ../data/com.ubuntu.pkexec.synaptic.policy.in.h:1
 msgid "Authentication is required to run the Synaptic Package Manager"
-msgstr "시냅틱 패키지 관리자를 실행하려면 인증이 필요합니다"
+msgstr ""
 
 #: ../gtk/rgfiltermanager.h:62
 msgid "Includes"
@@ -3783,27 +3675,45 @@ msgstr "드라이브에 디스크를 넣으십시오."
 msgid "Package is supported"
 msgstr "패키지를 지원합니다"
 
-#: ../gtk/rgterminstallprogress.cc:146
+#: ../gtk/rgterminstallprogress.cc:147
 msgid "<i>Running...</i>"
 msgstr "<i>실행하는 중입니다...</i>"
 
-#: ../gtk/rgterminstallprogress.cc:176
+#: ../gtk/rgterminstallprogress.cc:177
 msgid "<i>Finished</i>"
 msgstr "<i>완료</i>"
 
-#: ../gtk/rgterminstallprogress.cc:187
+#: ../gtk/rgterminstallprogress.cc:188
 msgid "<i>Can't close while running</i>"
 msgstr "<i>작동중에는 닫을 수 없음</i>"
 
-#: ../gtk/rgmainwindow.cc:3375
-msgid ""
-"Nothing to install/upgrade\n\n"
-"Please select the \"Mark all Upgrades\" "
-"button or some packages to install/upgrade."
-msgstr ""
-"설치 / 업그레이드 할 것이 없습니다.\n\n"
-"설치 / 업그레이드 할 \"모든 업그레이드 표시\" "
-"단추 또는 일부 패키지를 선택하십시오."
+#~ msgid "Restricted On Export"
+#~ msgstr "미국에서 수출 제한"
+
+#~ msgid "gzip failed, perhaps the disk is full."
+#~ msgstr "gzip이 실패했습니다. 디스크 용량이 가득 찬 것으로 보입니다."
+
+#~ msgid "Failed to reopen fd"
+#~ msgstr "파일 디스크립터를 다시 열 수 없습니다"
+
+#~ msgid "No valid records were found."
+#~ msgstr "유효한 레코드가 없습니다."
+
+#~ msgid "Cannot find filename or size tag"
+#~ msgstr "파일 이름이나 크기 태그를 찾을 수 없습니다"
+
+#~ msgid "Error parsing file record"
+#~ msgstr "파일 레코드 해석 오류"
+
+#~ msgid ""
+#~ "The list of sources could not be read.\n"
+#~ "Go to the repository dialog to correct the problem."
+#~ msgstr ""
+#~ "소스 목록을 읽을 수 없습니다.\n"
+#~ "문제를 해결하려면 저장소 창으로 가십시오."
+
+#~ msgid "The package lists or status file could not be parsed or opened."
+#~ msgstr "패키지 목록이나 상태 파일을 해석할 수 없거나 열 수 없습니다."
 
 #~ msgid "Available Version"
 #~ msgstr "사용 가능한 버전"
