@@ -1,3 +1,16 @@
+gooroom-translations (20220908+grm3u1) unstable; urgency=medium
+
+  [ subin.kim ]
+  * [a052ffa5] Updated synaptic po file
+  * [31af059f] Added translations for apt
+  * [b29567dd] Updated synaptic translations
+
+  [ heejun.jang ]
+  * [08476563] Updated nautilus translations
+  * [364d4949] Updated gnome-flashback translations
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 08 Sep 2022 15:18:10 +0900
+
 gooroom-translations (20220620+grm3u1) unstable; urgency=medium
 
   [ heejun.jang ]
