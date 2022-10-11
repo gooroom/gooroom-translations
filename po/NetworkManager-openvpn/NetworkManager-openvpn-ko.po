@@ -1242,7 +1242,7 @@ msgstr "원격 호스트와 이 포트와 프록시를 통해 연결합니다."
 
 #: ../properties/nm-openvpn-dialog.ui.h:159
 msgid "_Retry indefinitely when errors occur"
-msgstr "오류 밯생 시 무제한 재시도(_R)"
+msgstr "오류 발생 시 무제한 재시도(_R)"
 
 #: ../properties/nm-openvpn-dialog.ui.h:160
 msgid ""
