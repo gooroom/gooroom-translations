@@ -4406,6 +4406,11 @@ msgstr "창 또는 탭 닫기"
 
 #: src/resources/gtk/help-overlay.ui:31
 msgctxt "shortcut window"
+msgid "Quit"
+msgstr "끝내기"
+
+#: src/resources/gtk/help-overlay.ui:31
+msgctxt "shortcut window"
 msgid "Search"
 msgstr "검색"
 

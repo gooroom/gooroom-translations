@@ -438,12 +438,12 @@ msgstr "켜기"
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:305
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:392
 msgid "Leave On"
-msgstr ""
+msgstr "켜놓기"
 
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:305
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:392
 msgid "Leave Off"
-msgstr ""
+msgstr "꺼놓기"
 
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:313
 #: gnome-flashback/liba11y-keyboard/gf-a11y-keyboard.c:400
