@@ -1,3 +1,14 @@
+gooroom-translations (20230203+grm3u1) unstable; urgency=medium
+
+  [ subin.kim ]
+  * [455c2fd8] Updated gooroom-update po: synaptic permission
+
+  [ heejun.jang ]
+  * [e6957bc7] Updated Network Manager openvpn translations
+  * [0467b83b] Update nautilus help-overlay and gnome-flashback wireless network translations
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 03 Feb 2023 15:52:54 +0900
+
 gooroom-translations (20220908+grm3u1) unstable; urgency=medium
 
   [ subin.kim ]
