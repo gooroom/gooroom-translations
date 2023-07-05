@@ -565,6 +565,9 @@ msgstr "업데이트 목록"
 msgid "Details"
 msgstr "자세히"
 
+msgid "Launching gooroomUpdate"
+msgstr "구름 업데이트"
+
 #~ msgid "Icons"
 #~ msgstr "아이콘"
 
