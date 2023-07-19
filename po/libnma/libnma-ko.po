@@ -556,7 +556,7 @@ msgstr "연결하려는 와이파이 네트워크의 이름을 입력하십시�
 
 #: src/nma-wifi-dialog.c:1205
 msgid "Connect to Hidden Wi-Fi Network"
-msgstr "감춰진 와이파이 네트워크에 연결"
+msgstr "숨겨진 와이파이 네트워크에 연결"
 
 #: src/nma-wifi-dialog.c:1207
 msgid "Hidden Wi-Fi network"
