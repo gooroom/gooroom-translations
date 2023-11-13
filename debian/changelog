@@ -1,3 +1,11 @@
+gooroom-translations (20231113+grm3u1) unstable; urgency=medium
+
+  [ boyeon.choi ]
+  * [5778d8be] Update gooroom-update po: for panel exposure
+  * [36157725] Update libnma po: match up different terms
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 13 Nov 2023 16:06:14 +0900
+
 gooroom-translations (20230203+grm3u1) unstable; urgency=medium
 
   [ subin.kim ]
