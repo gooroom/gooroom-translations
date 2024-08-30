@@ -1,3 +1,13 @@
+gooroom-translations (20240830+grm4u1) unstable; urgency=medium
+
+  [ cjheo ]
+  * [22f7df59] Update translations for gnome-settings-daemon
+
+  [ boyeon.choi ]
+  * [0177308b] Update translatiosn for synpatic
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 30 Aug 2024 15:55:59 +0900
+
 gooroom-translations (20240527+grm4u1) unstable; urgency=medium
 
   [ seolhee.sun ]
